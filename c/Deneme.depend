@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1639768477 source:c:\users\furka\onedrive\masaüstü\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1641150818 source:c:\users\furka\onedrive\masaüstü\avp\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641381553 source:c:\users\furka\onedrive\masaüstü\deneme 05.01.2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641462796 source:c:\users\furka\onedrive\masaüstü\2.deneme 05.01.2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641581194 source:c:\users\furka\onedrive\masaüstü\fİnal proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
