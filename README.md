@@ -1,4 +1,5 @@
-# 🚀 Proje Tanımı ve Özellikleri
+# Personel Seçme Otomasyonu
+## 🚀 Proje Tanımı ve Özellikleri
 Bu proje, C ve Python programlama dillerinin temel yapı taşları üzerine inşa edilmiş, dış kütüphanelere ihtiyaç duymayan, tam otonom bir personel seçme sistemidir. Sistem, şirketlerin belirlediği özelleştirilebilir kriterler doğrultusunda adayları değerlendirerek, en uygun adayı veya adayları hızlı ve objektif bir şekilde belirler. Adayların çeşitli özelliklerine göre puanlama yapar ve bu puanlara dayanarak sıralama gerçekleştirir. Seçilen adayların maaşları ise, hem şirketin bütçesini hem de adayın deneyim seviyesini göz önünde bulundurarak otomatik olarak hesaplanır.
 > [!IMPORTANT]
 > Bu proje 1. sınıf Algoritma ve Programlama dersi için yapılmıştır.
